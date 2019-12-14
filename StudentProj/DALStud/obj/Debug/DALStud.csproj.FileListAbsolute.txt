@@ -1,0 +1,6 @@
+c:\users\user.itstep.000.001\source\repos\StudentProj\DALStud\bin\Debug\DALStud.dll
+c:\users\user.itstep.000.001\source\repos\StudentProj\DALStud\bin\Debug\DALStud.pdb
+c:\users\user.itstep.000.001\source\repos\StudentProj\DALStud\obj\Debug\DALStud.csprojAssemblyReference.cache
+c:\users\user.itstep.000.001\source\repos\StudentProj\DALStud\obj\Debug\DALStud.csproj.CoreCompileInputs.cache
+c:\users\user.itstep.000.001\source\repos\StudentProj\DALStud\obj\Debug\DALStud.dll
+c:\users\user.itstep.000.001\source\repos\StudentProj\DALStud\obj\Debug\DALStud.pdb

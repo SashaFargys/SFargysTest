@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALStud", "DALStud\DALStud.csproj", "{E83A5672-6C24-4484-A0F6-A2DB68D5C0FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudCons", "StudCons\StudCons.csproj", "{17542C5F-1432-4DC0-BFFE-9C932FE042F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E83A5672-6C24-4484-A0F6-A2DB68D5C0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E83A5672-6C24-4484-A0F6-A2DB68D5C0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E83A5672-6C24-4484-A0F6-A2DB68D5C0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E83A5672-6C24-4484-A0F6-A2DB68D5C0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17542C5F-1432-4DC0-BFFE-9C932FE042F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17542C5F-1432-4DC0-BFFE-9C932FE042F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17542C5F-1432-4DC0-BFFE-9C932FE042F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17542C5F-1432-4DC0-BFFE-9C932FE042F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AE2121F-49CD-48EA-8F3D-A99C62853719}
+	EndGlobalSection
+EndGlobal

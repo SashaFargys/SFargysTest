@@ -1,0 +1,10 @@
+c:\users\user.itstep.000.001\source\repos\StudentProj\StudCons\bin\Debug\StudCons.exe.config
+c:\users\user.itstep.000.001\source\repos\StudentProj\StudCons\bin\Debug\StudCons.exe
+c:\users\user.itstep.000.001\source\repos\StudentProj\StudCons\bin\Debug\StudCons.pdb
+c:\users\user.itstep.000.001\source\repos\StudentProj\StudCons\bin\Debug\DALStud.dll
+c:\users\user.itstep.000.001\source\repos\StudentProj\StudCons\bin\Debug\DALStud.pdb
+c:\users\user.itstep.000.001\source\repos\StudentProj\StudCons\obj\Debug\StudCons.csprojAssemblyReference.cache
+c:\users\user.itstep.000.001\source\repos\StudentProj\StudCons\obj\Debug\StudCons.csproj.CoreCompileInputs.cache
+c:\users\user.itstep.000.001\source\repos\StudentProj\StudCons\obj\Debug\StudCons.csproj.CopyComplete
+c:\users\user.itstep.000.001\source\repos\StudentProj\StudCons\obj\Debug\StudCons.exe
+c:\users\user.itstep.000.001\source\repos\StudentProj\StudCons\obj\Debug\StudCons.pdb
